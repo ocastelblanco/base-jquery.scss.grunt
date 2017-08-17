@@ -1,7 +1,7 @@
 # Proyecto jQuery + SASS + Grunt
 Bases de inicio de un proyecto web basado en jQuery (v3.2.1), SASS y Grunt (v.1.0.1).
 
-AngularJS: incluye solo la librería principal. Para incluir otras librerías, como jQuery UI o jQuery Mobile, consulte [Incluir librerías de jQuery](#incluir-librerías-de-jQuery).
+jQuery: incluye solo la librería principal. Para incluir otras librerías, como jQuery UI o jQuery Mobile, consulte [Incluir librerías de jQuery](#incluir-librerías-de-jQuery).
 
 Grunt: incluye los plugins Copy, Sass, Uglify, Watch y FTP-Push. Para incluir otros plugins, consulte [Incluir plugins de Grunt](#incluir-plugins-de-grunt).
 
